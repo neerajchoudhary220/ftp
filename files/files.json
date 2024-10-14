@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "path": "app/Http/Controllers/",
+      "fileName": "TaskController.php"
+    },
+    {
+      "path": "database/seeders/",
+      "fileName": "AdminSeeder.php"
+    },
+    {
+      "path": "resources/views/task/",
+      "fileName": "form.blade.php"
+    }
+  ]
+}

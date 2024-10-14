@@ -1,0 +1,14 @@
+{
+
+  "ftp_credentials":{
+    "username":"ftpuser",
+    "password":"neeraj@123",
+    "host":"localhost"
+  },
+
+ 
+  "root_paths":{
+    "local": "/home/neeraj/Public/daily_task_tracker",
+    "remote": "/files"
+  }
+}
